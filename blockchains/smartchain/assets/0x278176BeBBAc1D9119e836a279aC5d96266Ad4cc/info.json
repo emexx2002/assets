@@ -1,0 +1,11 @@
+{
+    "name": "Bitcoin Dash",
+    "website": "https://www.bitcoindash.finance/",
+    "description": "Bitcoindash is a universal utlity token established to carter for the cost of projects spending in getting utlity token.",
+    "explorer": "https://bscscan.com/token/0x278176bebbac1d9119e836a279ac5d96266ad4cc",
+    "type": "BEP20",
+    "symbol": "BTCD",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x278176bebbac1d9119e836a279ac5d96266ad4cc"
+}
